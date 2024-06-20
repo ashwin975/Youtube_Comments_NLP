@@ -23,5 +23,8 @@ Youtube link — https://youtu.be/oJqc2tLMObg Its a video on Top 10 Tom Ford per
 ## 📊 Data Visualization: 
 - To perform this sentiment analysis and keyword matching, i’ve built a simple dashboard with Tableau that lets us quickly filter through the perfumes and their sentiment scores.
 
-
 [Tableau Dashboard Link](https://public.tableau.com/views/YoutubeSentimentAnalysis/YoutubeComments-NLPAnalysis?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+
+![alt text](https://github.com/ashwin975/Youtube_Comments_NLP/blob/main/Dashboard_snap.jpg)
+
+
